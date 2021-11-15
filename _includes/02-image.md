@@ -1,5 +1,5 @@
 This image was taken from the video explaining how to use this feature! I
 
-[image](https://user-images.githubusercontent.com/1314285/110691657-448d7580-819a-11eb-8a51-91c3d2738688.png)
+[image]![Screenshot (220)](https://user-images.githubusercontent.com/94159586/141836649-8ba368ce-4a05-44f6-b834-e95e22656699.png)
 
 Check out the rest images

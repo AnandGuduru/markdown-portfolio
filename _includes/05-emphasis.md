@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like to **CODE** and I like to _practice_and i am __CODING__ on *GITHUB* I am  __CODER__
